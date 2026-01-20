@@ -1,1 +1,1 @@
-# scayle-logo-animation
+# moabits-logo-animation
